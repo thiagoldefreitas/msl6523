@@ -72,7 +72,29 @@ Le numérique : de nouveaux espaces et de nouveaux publics
 
 #### L’année dernière grand panorama
 
-rappel items abordés.
+Un phénomène ancien au musée. Création dès la fin des années 60 des premières organisations professionnelles dédiés. 
+
+MCN Museum computer network. Conférences qui fêtent leur 50aire cette année.
+
+http://omer.mobi/notes/pratiques/france-numerique-pour-les-musees-reperes/ et pour ne s’arrêter, il y a 20 ans.
+
+- 1975-1979, France, Création par le ministère de la culture d’une base de données des peintures des musées français
+- 1986, France, Premières bornes interactives à la Cité des sciences et de l’industrie
+- 1992, France, Base Joconde sur Minitel
+- 1994, France, CD-Rom du Louvre
+- 1994, France, Exposition virtuelle "[Le Siècle des Lumières dans les musées de France](http://www.culture.gouv.fr/documentation/joconde/fr/partenaires/AIDEMUSEES/journee_BDNC_2012/manoeuvre.htm#.UyYSWFRdhXU.twitter)" conçue par la direction des musées de France et réalisée avec le support technique de l'INRIA.
+- juillet 1995, ouverture du site [Le Louvre](http://web.archive.org/web/20000620205710/http://www.louvre.fr/)
+- Cd-Rom [Angkor, Cité royale](http://www.persee.fr/web/revues/home/prescript/article/asean_0859-9009_1998_num_2_1_1612)
+
+Travaux historiographiques : Ross Pary, avec [Recoding the museum](https://www.routledge.com/Recoding-the-Museum-Digital-Heritage-and-the-Technologies-of-Change/Parry/p/book/9780415353885) sur le catalogage
+
+Paul F. Marty et le concept de museum informatics, étude du musée comme système socio-technique. Implications sociales des nouvelles technologies dans l’environnement muséal.
+
+Corinne Welger-Barboza. Du musée virtuel au musée médiathèque : le patrimoine à l’ère du document numérique. Paris : L’Harmattan, 2001.
+
+Sarah Kenderdine Theorizing digital cultural heritage : a critical discourse. Cambridge, Mass : MIT Press, 2010.
+
+#### Rappel items abordés l’année dernière
 
 #### Multimédia
 

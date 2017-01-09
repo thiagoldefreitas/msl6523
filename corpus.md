@@ -150,6 +150,18 @@ country: France
 
 date: 2015
 
+## Le siècle des Lumières dans la peinture des musées 
+
+url: http://www.culture.gouv.fr/lumiere/documents/
+
+editor: Direction des musées de France
+
+realisation: INRIA
+
+country: France
+
+data: 1994
+
 ## Yves Saint-Laurent
 
 url: http://webmuseo.com/ws/archives-pb-ysl/app/plugin/museum/triptyques
