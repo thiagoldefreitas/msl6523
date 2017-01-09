@@ -139,7 +139,7 @@ L’évaluation du travail se décompose de la manière suivante :
 
 Afin de compléter l’évaluation individuelle des étudiants, vous devez produire une notice critique sur une exposition numérique canadienne. Cette notice est destinée à être publiée, avec votre accord, sur un site web consacré à la muséologie numérique au Canada.
 
-- Choix de l’exposition numérique 10%
+- Choix de l’exposition numérique et justification du choix 20%
 - Pertinence de la notice 60 %
 - Qualité de la rédaction 20 %
 
