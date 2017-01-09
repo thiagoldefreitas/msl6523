@@ -9,7 +9,7 @@ Cours optionnel, 3 crédits
 
 Horaire : mardi, 16h–19h
 
-Local : Lionel-Groulx, C-1710
+Local : Lionel-Groulx, C-2117
 
 Professeur : Emmanuel Château-Dutier
 
@@ -54,11 +54,13 @@ Plusieurs dispositifs d’échange son mis en œuvre pour partager la bibliograp
 
 _Nota : L’ordre des séances est susceptible d’être modifié pour faciliter la participation d’intervenants extérieurs sans toutefois que ces changements n’entraînent un surcroît de travail pour les étudiants._
 
+À partir du mois de février, la moitié des séances seront consacrées à la discussion du travail sur le prototype.
+
 ### Lundi 9 janvier 2017 (séance 1) – Introduction, présentation du plan de cours
 
 Séance introductive du séminaire. Présentation de la problématique générale du séminaire, des méthodes de travail et des exercices.
 
-### Lundi 16 janvier 2017 (séance 2) Qu’est-ce qu’une exposition virtuelle ?
+### Lundi 16 janvier 2017 (séance 2) – Qu’est-ce qu’une exposition virtuelle ?
 
 De plus en plus d’institutions créent des contenus numériques qu’ils désignent comme des expositions virtuelles. Que recouvre ce vocable, et comment les rattacher à une conception plus générale de l’exposition dans le domaine muséal ? Comment l’aborder d’un point de vue muséologique et sémiologique ?
 
@@ -66,13 +68,11 @@ De plus en plus d’institutions créent des contenus numériques qu’ils dési
 
 - [Entrée « Exposition » dans *Dictionnaire Encyclopédique de Muséologie*. André Desvallées et François Mairesse (dirs.). Paris : Armand Colin, 2002, pp. 133-173.](https://github.com/museonum/biblio/blob/master/exposition.pdf)
 
-### Lundi 16 janvier 2017 (séance 3) La visite virtuelle
+### Lundi 23 janvier 2017 (séance 3) – La notion de visite virtuelle
 
 Les premières réalisations produites par les musées sur le web consistaient à offrir au public une visite virtuelle de leurs collections. Comment cette visite virtuelle se présentait-elle ? quelles formes prend-elle aujourd’hui ?
 
-#### Exemples
-
-### 3. L’exposition numérique est un phénomène d’éditorialisation
+### Lundi 30 janvier 2017 (séance 4) – L’exposition numérique comme phénomène d’éditorialisation
 
 L’éditorialisation est un concept commode pour rendre compte des phénomènes de production du sens dans l’espace numérique. Celle-ci désigne l’ensemble des dynamiques qui produisent et structurent l’espace numérique. Ces dynamiques peuvent être des interactions des actions individuelles et collectives avec un environnement numérique particulier. Au cours de cette séance, nous essayerons de mobiliser le concept d’éditorialisation développé par Marcello Vitali Rosati pour aborder le cas des expositions virtuelles.
 
@@ -80,115 +80,41 @@ L’éditorialisation est un concept commode pour rendre compte des phénomènes
 
 - Marcello Vitali Rosati. « Qu’est-ce que l’éditorialisation ? » *Sens Public*, 18 mars 2016. http://sens-public.org/article1184.html
 
-### 4. Présentation du partenariat Technès
+### Lundi 6 février 2017 (séance 5) – Présentation du partenariat Technès
 
 Le partenariat Technès est un partenariat international qui associe plusieurs laboratoires de recherche et institutions patrimoniales et culturelles pour investiguer les techniques cinématographiques. Le partenariat doit notamment permettre la production d’une *Encyclopédie des techniques du cinéma* qui proposera notamment des parcours de type expositionnel. La séance est consacrée à la présentation des enjeux du projet de recherche sur lequel vous allez travailler.
 
-### 5. Musée canadien virtuel (étude de cas)
+http://technes.org/fr/
 
-### La Gamification
+### Lundi 27 février 2017 (séance 6) – L’exemple du Musée canadien virtuel (études de cas)
 
-http://www.memorya.org/#accueil
+Avec plus de 500 expositions virtuelles, le Musée virtuel du Canada (MVC) offre une importante source de contenu et d’expériences en ligne provenant de musées et organismes patrimoniaux canadiens, petits et grands. Ces expositions en ligne portent sur l’histoire, la culture, la science et les arts, ainsi que sur des récits de diverses communautés au Canada. De nombreuses ressources éducatives sont également mises à la disposition des enseignants. Présentation du projet et études de cas.
 
-### Google Cultural Institute
+### Lundi 13 février 2017 (séance 7) – Le prolongement de l’exposition physique
 
-https://www.google.com/culturalinstitute/beta/
+Les applications sur tablettes ou mobiles permettent aux institutions de proposer des expositions virtuelles qui offrent au visiteur un support de visite ou constituent le prolongement de ces visites. Quelles sont les caractéristiques de ces applications du point de vue des interactions utilisateurs et comment se différentient-elles du web proprement dit ?
 
-https://blog.google/topics/arts-culture/the-new-google-arts-culture-on-exhibit/
+### Lundi 20 mars 2017 (séance 8) – Le modèle du webdocumentaire
 
-https://www.google.com/culturalinstitute/beta/exhibit/1wLSzO0BWWZ3Jw
+On 
 
-https://www.google.com/culturalinstitute/beta/u/0/project/loire-castles
+### Lundi 27 mars 2017 (séance 9) – Le renouveau curatorial
 
-https://www.google.com/culturalinstitute/beta/exhibit/a-la-genèse-de-la-société-de-l-information
+Avec les réseaux sociaux numériques, la possibilité de collectionner et de republier offrent de nombreuses possibilités d’appropriation des contenus culturels. Certaines plateformes comme Tumblr, ou Pinterest se sont spécialisées dans la diffusion d’image. Les nouvelles possibilités qu’elles offrent en matière de curation ont donné lieu à de nombreux commentaires.
 
-### Le renouveau curatorial
+###  Lundi 3 avril 2017 (séance 10) – La curation algorithmique
 
-Tumblr, Pinterest, Flickr, etc.
+Qu’advient-il lorsque l’on confie à la machine la curation d’une exposition ? C’est ce qu’a dernièrement voulu explorer la Tate avec l’exposition [Recognition](http://recognition.tate.org.uk). Comment appréhender dans un contexte curatorial les mashup et l’avènement de la vision computationnelle et de l’intelligence artificielle.
 
-Blogger, etc. http://50watts.com
+### Lundi 10 avril 2017 (séance 11) – La datavisualisation
 
-### Open Knowledge
+### Lundi 17 avril 2017 (séance 12) – Restitution des travaux
 
-http://publicdomainreview.org
-
-http://www.aventdudomainepublic.org
-
-ubuweb
-
-monoskop
-
-### Webdocumentaire
-
-Le modèle du webdocumentaire et du storytelling
-
-### Net Art
-
-Isabelle + exemple d’expositions numériques
-
-Altshuler, Bruce. *The Avant-Garde in Exhibition: New Art in the 20**th** Century*, New York : Harry N. Abrams, 1994 ou encore *Exhibitions That Made Art History*
-
-Altshuler, Bruce. *Salon to Biennial – Exhibitions That Made Art History*, vol.1: 1863-1959, Londres ; New York : Phaidon, 2008
-
-réciprocité entre expériences artistiques et mises en exposition expérimentales, l’exposition comme espace social des pratiques artistiques modernes.
-
-### 7. Application et prolongements de la visite physique
-
-### 8. Quand le livre et l’exposition convergent
-
-cf. https://candide.bnf.fr
-
-http://lelecteuraloeuvre.boocs.ch
-
-dernière version de http://www.blakearchive.org
-
-rolls, etc.
-
-### Le catalogue numérique
-
-Initiatives du Getty
-
-Tentatives de la Tate
-
-### Dispositifs in situ ?
-
-### 10. Prologement du physique
-
-réalité augmentée, applications de visites  
-
-### 11. L’exposition virtuelle
-
-http://www.lapresse.ca/le-soleil/arts/expositions/201606/29/01-4996667-la-bibliotheque-la-nuit-de-lepage-a-quebec.php
-
-http://libraryofbabel.info
-
-[V-MUST.NET](http://www.v-must.net/)
-
-### 12. Mashups, etc.
-
-Open data, mashups.
-
-http://www.fastcodesign.com/3063033/infographic-of-the-day/wikipedia-is-a-giant-unfathomable-universe-now-you-can-explore-it-lik
-
-http://histography.io
-
-### 13. La curation algorithmique
-
-Logiciels de reconnaissance d’image, vision computationnelle, et curation.
-
-Mesure de l’originalité, etc.
-
-Google Image, cf. article 
-
-http://recognition.tate.org.uk
-
-https://www.fastcodesign.com/3063716/what-happens-when-you-let-a-neural-net-curate-art
-
-https://www.google.com/culturalinstitute/beta/entity/m012yb9?categoryId=art-movement&col=RGB_CE4A3F
+Restitution des prototype 
 
 ## Lectures et travail personnel
 
-Outre une [bibliographie sommaire](bibliographie.md), des lectures hebdomadaires sont proposées avec le cours. Ces références seront indiquées pour chaque séance dans le [plan de cours](planMsl6523A17.md). 
+Outre une [bibliographie sommaire](bibliographie.md), des une à deux lectures hebdomadaires sont proposées avec le cours. Ces références seront indiquées pour chaque séance dans le [plan de cours](planMsl6523A17.md). 
 Merci d’avoir lu et étudié ces publications avant le séminaire afin de pouvoir en discuter. À cet effet, il est recommandé de prendre des notes pendant vos lectures, et de les apporter en cours.
 
 Lorsque les droits le permettent. les textes sont mis à disposition par l’intermédiaire d’un [répertoire GitHub privé](https://github.com/museonum/biblio) (pour accéder aux documents joints aux références, merci de bien vouloir créer un compte sur la plate-forme et de faire une demande d’adhésion au groupe).
@@ -222,10 +148,13 @@ Dans l’éventualité où vous deviez rencontrer des difficultés pour remplir 
 
 ### Échéancier
 
-- janvier 2016 - Finalisation du choix du dispositif numérique étudié
-- avril 2016 – Rendu de la notice critique
-- révision par les pairs de la notice critique
+dates à préciser
+
+- 30 janvier 2016 - Finalisation du choix du dispositif numérique étudié
+- 31 mars 2017 – Rendu de la notice critique
+- avril révision par les pairs de la notice critique
 - Tout au long du semestre, travail sur le prototype d’exposition
+- 17 avril 2017 présentation des prototypes
 
 ## Intégrité, fraude et plagiat
 
