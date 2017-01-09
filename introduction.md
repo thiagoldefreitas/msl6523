@@ -1,20 +1,118 @@
-# Introduction Expositions
+# Introduction Expositions numériques
 
-L’exposition comme pratique est un objet d’étude qui a occupé la critique depuis le tournant des années 1990. 
+## Présentation
 
-Voir le récapitulatif proposé par Jens Hoffmann dans : « Le Commissariat d’exposition entre les lignes », *Critique d’art*, n°41, printemps-été 2013, p. 72-86.
+Se présenter, parcours
 
-In 2010, fondation de *[The Exhibitionist](http://the-exhibitionist.com)*, un journal pour les commissaires, par les commissaires, entièrement centré sur la pratique et la théorie de la fabrication d’exposition.
+- professeur de muséologie numérique
+- spécialiste d’architecture
+- engagement dans le domaine des humanités numériques
+- apprentissage de la bibliothéconomie
 
-Outre des revues qui leur sont spécialement consacrées, des collections ont été lancées par les maisons d’édition, et certains musées s’engagent dans des programmes réflexifs à caractère rétrospectif comme actuellement le Centre Georges Pompidou. En témoigne, l’organisation récente d’une exposition consacrée aux Magiciens de la terre.
+Quelques mots sur le séminaire que l’on propose cette année
 
-Cf. la collection *Exhibition Histories *des éditions Afterall à Londres, la programmation du VanAbbemuseum à Eindhoven au tournant des années 2010 et les projets de recherche en cours au Centre Pompidou ou au MoMA de New York. + blog hypothèse https://histoiredesexpos.hypotheses.org
+## Introduction
 
-**When Attitudes Become Form: Bern 1969/Venice 2013** Milan : Fondazione Prada, 2013, 727p. ill. en noir et en coul. 30 x 22cm, eng/ita Bibliogr. ISBN : 9788887029550 Sous la dir. de Germano Celant. Préf. de Patrizio Bertelli, Miuccia Prada
+## Muséologie numérique
 
-**Bruce Altshuler, Biennials and Beyond: Exhibitions That Made Art History 1962-2002** Londres : Phaidon, 2013, 402p. ill. en noir et en coul. 30 x 26cm, eng Bibliogr. Index ISBN : 9780714864952
+Desvallées André. Muséologie, étymologiquement l’étude du musée et non sa pratique. Mais profession de plus en plus désignée comme telle.
 
-**Evelyne Toussaint, Africa Remix : une exposition en questions** Bruxelles : La Lettre volée, 2013, 200p. ill. en noir et en coul. 21 x 15cm, (Essais) ISBN : 9782873173913. _ 23,00 €
+Museum studies pour l’étude du fait muséal en anglais.
+
+Troisième acception une discipline à part. "L’étude d’une relation spécifique entre l’homme et la réalité dont le musée, phénomène déterminé au cours du temps ne constitue que l’une des concrétisation possibles."
+
+Enfin, la muséologie peut selon une quatrième acception recouvrir un champ très vaste d’institutions liées à la science documentaire, notamment les musées virtuels.
+
+> La muséologie s’est constituée à la conjonction des besoins techniques liés à la vie  pratique  des  musées  et  d’une réflexion sur le rôle de ces établissements. D’abord confondu avec la muséographie, le terme s’est progressivement limité, au moins dans les langues latines, à ne plus couvrir que le volet théorique du musée, pendant que le terme de muséographie tendait à n’en désigner que la pratique.
+>
+> Desvallées
+
+Historiquement, Premiers traité sur les cabinets 16e
+
+Emploi du terme *muséologie* en 1839. À l’époque recouvre indistinctement les méthodes de classement et de description, et d’exposition des collections de musées.
+
+Importance grandissante du phénomène, constitutions d’associations professionnelles (fin XIXe puis ICOM 1946)
+
+1958 Unesco, Georges-Henri Rivière, alors directeur de l’Icom, avait défini la muséologie comme étant "la science ayant pour but d’étudier la mission et l’organsiation du musée". Et la muséographie comme "l’ensemble des techniques en relation avec la muséologie".
+
+Évolution en cours de la définition vers l’étude des bus, de l’organisation des musées, d’un certain nombre d’activités concernant la préservation et l’utilisation du patrimoine culturel et naturel. cf. formations universitaires, revues
+
+### La grande conversion numérique
+
+cf. Milad Doueihi
+
+Qu’est-ce qui change avec le numérique ?
+
+- dématérialisation
+- décentralisation
+- déshumanisation ?
+
+Ensemble de la société qui se trouve projeté dans l’espace numérique.
+
+- transformation des acteurs
+- transformation des pratiques
+- enjeux culturels et politiques
+
+Le numérique et la mémoire
+Question de la sélection, numérisation. Pas de mémoire passive. Inversion de la construction de la mémoire. cf. https://youtu.be/WVSPizC50T0
+
+Les musées et l’aura
+Musées d’art et aura de l’œuvre. Le phénomène muséal et les artefacts.
+Les musées comme acteurs culturels.
+
+Institutions culturelles et rôle citoyen, patrimoines sensibles, etc. Cf. Black lives matter, et initiatives récentes dans le domaine muséal (p. ex. thème dernière conférence MCN)
+
+Fabrique de la mémoire, fabrique du social.
+
+### Étudier les musées et leur activité à l’ère du numérique
+
+Séminaire de muséologie numérique de l’IRI depuis plusieurs années.
+
+Le numérique : de nouveaux espaces et de nouveaux publics
+
+#### L’année dernière grand panorama
+
+rappel items abordés.
+
+#### Multimédia
+
+Applications interactives, écrans tactiles et dispositifs de visite
+
+#### Le web comme plateforme
+
+- musées en ligne et expositions virtuelles
+- API et web de données
+
+#### Le web comme espace communautaire
+
+- Réseaux sociaux numériques
+- Logiques collaboratives
+
+#### Réalité virtuelle, etc.
+
+#### DH et muséologie.
+
+cf. prospective muséale (rapports annuels)
+évoquer principales conférences qui accompagnent changement.
+
+## L’historiographie des expositions
+
+L’exposition comme pratique est un objet d’étude qui occupe la critique depuis le tournant des années 1990. 
+
+André Desvallées inaugure série d’articles intitulés Exposer dans la revue *Publics et Musées* en 1996. Parle à leur sujet d’expographie et prône le développement d’une recension des expositions.
+
+Plus généralement intérêt qui accompagne développement des grandes expositions et la place de plus en plus importantes qu’elles prennent dans l’économie muséale au niveau international. Mais aussi, l’émergence des fonctions curatoriales qui y sont associées notamment dans le domaine de l’art contemporain.
+
+- Voir le récapitulatif proposé par Jens Hoffmann dans : « Le Commissariat d’exposition entre les lignes », *Critique d’art*, n°41, printemps-été 2013, p. 72-86.]
+- En 2010, fondation de *[The Exhibitionist](http://the-exhibitionist.com)*, un journal pour les commissaires, par les commissaires, entièrement centré sur la pratique et la théorie de la fabrication d’exposition.
+
+Outre des revues qui leur sont spécialement consacrées, des collections ont été lancées par les maisons d’édition, et certains musées s’engagent dans des programmes réflexifs à caractère rétrospectif comme actuellement le Centre Georges Pompidou. En témoigne, l’organisation récente d’une exposition rétrospectives dédiée à la célèbre exposition *Les Magiciens de la terre*.
+
+Cf. la collection *Exhibition Histories *des éditions Afterall à Londres, la programmation du VanAbbemuseum à Eindhoven au tournant des années 2010 et les projets de recherche en cours au Centre Pompidou ou au MoMA de New York. + blog hypothèse https://histoiredesexpos.hypotheses.org 
+
+- **When Attitudes Become Form: Bern 1969/Venice 2013** Milan : Fondazione Prada, 2013, 727p. ill. en noir et en coul. 30 x 22cm, eng/ita Bibliogr. ISBN : 9788887029550 Sous la dir. de Germano Celant. Préf. de Patrizio Bertelli, Miuccia Prada
+- *Bruce Altshuler, Biennials and Beyond: Exhibitions That Made Art History 1962-2002** Londres : Phaidon, 2013, 402p. ill. en noir et en coul. 30 x 26cm, eng Bibliogr. Index ISBN : 9780714864952
+- *Evelyne Toussaint, Africa Remix : une exposition en questions** Bruxelles : La Lettre volée, 2013, 200p. ill. en noir et en coul. 21 x 15cm, (Essais) ISBN : 9782873173913. _ 23,00 €
 
 Regain d’intérêt historiographie après 2010. Pendant longtemps, les personnes s’intéressant à la curation et au sujet de l’exposition pouvaient seulement se référer à quelques premiers livres publiées dans les années 1990.
 
@@ -51,72 +149,42 @@ http://the-exhibitionist.com
 > Reflection, Jens Hoffmann, Julian Myers-Szupinska, and Liz Glass
 > Exhibitions are a social and collective form. Whether the products of a single artist or of a group, they gather together artworks (or objects, projects, residues) and construct from them an image of a social field. Just as understanding an exhibition involves thinking about the relations that exist among, and engender the possibility of imagining, that field, no less are exhibitions produced by a group. Beyond the artists and the exhibition maker(s) involved, an exhibition radiates from an expansive network: conservators, shippers, installers, writers, editors, designers, administrative types of all sorts, interns, guards, funders, promoters, and so on. Exhibitions are, furthermore, perceived by an audience or a public—another group—who are themselves internally divided and classed, cohesive or cacophonous.
 
-Un espace discursif de présentation d’œuvres ou d’objet à des visiteurs. 
+En rapprochant l’expographie et la muséographie de la scénographie, Jean Davallon souligne que la production d’une exposition consiste d’abord à produire un espace. C’est cet espace de l’exposition qui s’offre au visiter et ordonne de manière plus ou moins séquentielle la visite et la lecture. 
+
+Toutefois, la production de l’exposition est aussi une critique. Elle constitue un espace discursif dans lequel sont présentés des œuvres, objets ou archives (les expôts) à la contemplation des visiteurs. 
+
+Qu’es-ce que l’écriture d’une exposition ?
+
+Notion d’expographie pour reprendre le terme d’André Desvallées.
+
+Dimension médiatique de l’exposition admise par tous.
+
+L’exposition tout autre chose que l’exposé. Un espace social, un dispositif.
+
+- exposer c’est disposer les choses dans l’espace de manière à les données à voir = technologie de la présence (Davallon), magnifier leur apparaître. Texte à côté d’eux ou pas. 
+  Dans l’exposition d’art contemporain, **agencement formel et esthétique** dont la vie est de permettre une rencontre du visiteur avec les objets
+
+- seconde conception, "exposer c’est donner à voir pour comprendre" autrement dit pour dire quelque chose. Choix et articulation des composants, rôle du commissaire. 
+
+  L’exposition prend alors une finalité communicationnelle. Elle est alors destinée à produire à un effet sur le visiteur. C'est alors une **écriture**.
+
+Agencement technique de choses et non de signes à la différence du texte. Mais plus ou moins signifiants et destinés à être interprétés par le visiteur.
+
+#### Le temps
 
 Caractère souvent éphémère ou limité dans le temps de la manifestation.
 
 Mais surtout le choix et la lecture séquentielle proposée qui donne sens à l’exposition. Une écriture avec des œuvres.
+
+Caractère sémiologique. L’exposition peut être considérée (avec Jean Davallon) comme un dispositif socio-symbolique.
+
+#### Le passage au numérique
 
 Quels changements avec le numérique. L’exposition numérique se différentie-elle de l’exposition physique ?
 
 Au-delà des contraintes ou des opportunités techniques, qu’est-ce qui caractérise ce médium muséal nouveau. Quel rapport entretient-il avec l’exposition physique, quel usage en font les institutions ou les amateurs.
 
 // avec digital art history
-
-
-
-## Muséologie numérique
-
-### La grande conversion numérique
-
-cf. Milad Doueihi
-
-Qu’est-ce qui change avec le numérique ?
-- dématérialisation
-- décentralisation
-- déshumanisation ?
-
-Ensemble de la société qui se trouve projeté dans l’espace numérique.
-- transformation des acteurs
-- transformation des pratiques
-- enjeux culturels et politiques
-
-Le numérique et la mémoire
-Question de la sélection, numérisation. Pas de mémoire passive. Inversion de la construction de la mémoire. cf. https://youtu.be/WVSPizC50T0
-
-Les musées et l’aura
-Musées d’art et aura de l’œuvre. Le phénomène muséal et les artefacts.
-Les musées comme acteurs culturels.
-
-Institutions culturelles et rôle citoyen, patrimoines sensibles, etc. Cf. Black lives matter, et initiatives récentes dans le domaine muséal (p. ex. thème dernière conférence MCN)
-
-Fabrique de la mémoire, fabrique du social.
-
-
-### Étudier les musées et leur activité à l’ère du numérique
-
-Séminaire de muséologie numérique de l’IRI depuis plusieurs années.
-
-Le numérique : de nouveaux espaces et de nouveaux publics
-
-Sommaire du cours de l’année dernière.
-
-Multimédia
-
-Le web comme plateforme
-- musées en ligne et expositions virtuelles
-- API et web de données
-
-Le web comme espace communautaire
-- Réseaux sociaux numériques
-- Logiques collaboratives
-
-Réalité virtuelle, etc.
-
-DH et muséologie.
-
-cf. prospective muséale (rapports annuels)
-évoquer principales conférences qui accompagnent changement.
 
 ## Le cas des expositions virtuelles
 
@@ -128,7 +196,29 @@ cf. prospective muséale (rapports annuels)
 
 Cas particulier des expositions
 
-- Comment les expositions se trouvent-elles transposées de manière numérique ?
-- Qu’est-ce qu’une exposition numérique ?
-- Qu’est-ce qui est propre à son médium ?
-- Comment les musées investissent-ils le médium pour les expositions.
+- étudier la manière dont les expositions se trouvent-elles transposées avec le médium numérique
+- déterminer les éléments distinctifs de l’exposition numérique et comment elle se différentie de l’exposition physique
+- identifier la manière dont les musées investissent le médium numérique dans le domaine des expositions
+- prospective
+
+## Objectifs du cours
+
+- définir une méthode d’analyse des expositions numériques
+- être attentif à la dimension technologique du médium numérique : son affordance, et son expressivité
+
+Conception de l’exposition qui peut être décrite selon cinq opérations qu’il s’agira à chaque fois de restituer.
+
+- élaboration du contenu (choix, potentialité expositive)
+- construction de la trame (macrostructure organisatrice du contenu présenté)
+- conception du schéma scénationnel (participation visiteur à exposition, parcours comme interaction)
+- choix de la scénique. C'est la traduction du contenu, de la trame et du schéma scénationnel en données physiques réalisable et mises en œuvre.
+- détermination de la mise en situation. réalisation des modalités concrètes interaction visiteur
+
+Bien sûr, identifier les acteurs et attendus à l'égard du médium
+
+Plus généralement, production du sens
+
+## Présentation des exercices
+
+## Présentation du dispositif de travail
+
