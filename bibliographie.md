@@ -1,11 +1,30 @@
 # Bibliographie
 
+## Muséologie numérique
+
+- K. Drotner et K. Schrøder (éds.). Museum communication and social media : the connected museum. New York : Routledge, Taylor & Francis Group, 2013.
+- R. Parry (éd.). Museums in a digital age. London : Routledge, 2010.
+- F. Cameron et S. Kenderdine (éds.). Theorizing digital cultural heritage : a critical discourse. Cambridge, Mass : MIT Press, 2010.
+- L. Tallon et K. Walker (éd.). Digital technologies and the museum experience: handheld guides and other media. Lanham ; Toronto : AltaMira Press, 2008.
+- Corinne Welger-Barboza. Du musée virtuel au musée médiathèque : le patrimoine à l’ère du document numérique. Paris : L’Harmattan, 2001.
+- Alfredo M. Ronchi. eCulture : cultural content in the digital age. Berlin ; London: Springer, 2008.
+- S. Thomas, A. Mintz, et American Association of Museums. The virtual and the real: media in the museum. Washington, DC : American Association of Museums, 1998.
+- S. Keene. Digital collections: museums and the information age. Oxford, England ; Boston : Butterworth-Heinemann, 1998.
+- K. Jones-Garmil (éd.). The wired museum : emerging technology and changing paradigms. Washington, DC : American Association of Museums, 1997.
+
 ## Expositions
 
+- Chaumier Serge ; préface de Marc-Olivier Gonseth. Traité d’expologie : les écritures de l’exposition. [Paris] : La Documentation française, [2012]. ISBN 9782110089854. http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH002130029 AM 151 C43 2012
 - Barker Emma (éd.). Contemporary cultures of display. Arts and its histories. New Haven : Yale University Press, 1999. ISBN 0300077831 http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000240966 (N 6490 C6663 1999)
-- Davallon Jean. Claquemurer pour ainsi dire tout l’univers : La mise en exposition. Paris : Éditions du Centre Georges-Pompidou, 1986. ISBN 285850301X http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000973555 (Livres rares Collection Rioux SEM-A (RIOUX 2536 ))
 - Davallon Jean. L’exposition à l’œuvre : stratégies de communication et médiation symbolique. Communication et civilisation. Paris ; Montréal : L’Harmattan, 2000. ISBN 2738487254 http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000242251 (AM 7 D38 1999)
+- Dean David. Museum exhibition : theory and practice. London : Routledge. 1996. ISBN 0415080177 http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000240957 AM 151 D43 1994
+- Deotte Jean-Louis, Huygue Pierre-Damien (dirs.). Le jeu de l’exposition. Paris : L’Harmattan, 1998. 249 p. ISBN 2738470416 http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH001150532 (N 4396 J48 1998)
+- Chabert  Ghislaine et Bouillot Daniel. « Du réel au virtuel : Une expérience de visite dans l’exposition. » *Culture & Musées*, Vol. 15, n° 1, 2010, pp. 117-135. [numéro thématique : Comment parler de la critique d’exposition ? (sous la direction de Marie-Sylvie Poli)] http://www.persee.fr/doc/pumus_1766-2923_2010_num_15_1_1614
+- Mairesse François et Hurley Cecilia. « Eléments d’expologie, Matériaux pour une théorie du dispositif muséal. » *MediaTropes*, Vol III, n° 2, 2012, pp. 1–27. ISSN 1913-6005 http://www.mediatropes.com/index.php/Mediatropes/article/download/16896/13886
+- Merleauponty, Claire et Ezrati Jean­Jacques. L’exposition, théorie et pratique. Collection Patrimoines et sociétés. Paris : L’Harmattan, 2005. 204 p. http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH001110697 (AM 151 M47 2005 )
+- *The Exhibitionist*, revue en ligne
 
+## Autres
 
 - ARVANATIS Yannis. *A fine red line: a curatorial miscellany*, IM Press, Londres, 2008. 80 p. [[IN-8 24130\]](http://bibliothequekandinsky.centrepompidou.fr/clientBookline/service/reference.asp?INSTANCE=incipio&OUTPUT=PORTAL&DOCID=0890215&DOCBASE=CGPP)
 - BAL Mieke, *Double Exposures, The Subject of Cultural Analysis*, Londres/New York, Routledge, 1996.
@@ -14,10 +33,7 @@
 - CAILLET Elisabeth, PERRET Catherine (sous la direction de). *L’art Contemporain et son exposition (2)*, Paris : L’Harmattan, 2007.
 - CRIMP Douglas. *On the Museum’s Ruins*, Cambridge: MIT Press, 1993. 348 p. [[IN-8 10517\]](http://bibliothequekandinsky.centrepompidou.fr/clientBookline/service/reference.asp?INSTANCE=incipio&OUTPUT=PORTAL&DOCID=0402146&DOCBASE=CGPP)
 - CRIMP Douglas, MEINHARDT Johannes. *An arrangement of pictures / *photogr. LAWLER Louise, New York : Assouline, 2000. [[IN-4 19542\]](http://bibliothequekandinsky.centrepompidou.fr/clientBookline/service/reference.asp?INSTANCE=incipio&OUTPUT=PORTAL&DOCID=0300440&DOCBASE=CGPP)
-- DAVALLON Jean. *Claquemurer, pour ainsi dire, tout l’univers : la mise en exposition*, Paris : éd. Centre Pompidou, 1986. 302 p. [[RLPF 6453\]](http://bibliothequekandinsky.centrepompidou.fr/clientBookline/service/reference.asp?INSTANCE=incipio&OUTPUT=PORTAL&DOCID=0397757&DOCBASE=CGPP)
-- Jean Davallon, L’exposition à l’œuvre, Paris, 1999
 - DAVALLON Jean. *Histoires d’expo : un thème, un lieu, un parcours*. Paris : éd. Centre Pompidou – CCI Peuple et Culture, 1983. 54 p. [[IN-4 16570\]](http://bibliothequekandinsky.centrepompidou.fr/clientBookline/service/reference.asp?INSTANCE=incipio&OUTPUT=PORTAL&DOCID=0396740&DOCBASE=CGPP)
-- **DEOTTE Jean-Louis, HUYGUE Pierre-Damien (sous la direction de). *Le jeu de l’exposition*, L’Harmattan, Paris, 1998. 249 p. ISBN 2738470416 [IN-8 14470] http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH001150532 (N 4396 J48 1998)**
 - DERIEUX Florence, SZEEMANN *Harald (*sous la direction de). * Individual Methodology*, Zürich : éd. JRP|Ringier, 2007. 248 p. [IN-8 22982]
 - DERNIE David. *Exhibition design*, 2006, London, Laurence King Publishing, 192 p. [IN-4 24309]
 - GROYS Boris. “On the Curatorship”, in *Art Power*, Cambridge, The MIT Press, 2008. 187 p. [IN-8 23248] cf. epub
@@ -28,7 +44,7 @@
 - GREENBERG Reesa, FERGUSON Bruce W., NAIRNE Sandy. *Thinking about Exhibitions*, London/New York : Routledge, 1995. 487 p. [IN-8 19239]
 - GREGOTTI Vittorio. ″*Qu’est-ce que les expositions et leurs catalogues ont apporté à l’histoire de l’art*″, MNAM petite salle, 1989. (enregistrement sonore) [BS 419]
 - GUELTON Bernard. *L’exposition : interprétation et réinterprétation,* Paris: l’Harmattan, 1998. 203 p. [IN-8 14898]
-- *L‘ art de l’exposition : une documentation sur trente expositions exemplaires du XXe siècle*, trad. de l’allemand par Denis TRIERWEILER, Paris : éd. du Regard, 1998. 422 p. [IN-8 14129]
+- *L’ art de l’exposition : une documentation sur trente expositions exemplaires du XXe siècle*, trad. de l’allemand par Denis TRIERWEILER, Paris : éd. du Regard, 1998. 422 p. [IN-8 14129]
 - JEUDY Henri-Pierre (sous la direction de). *Exposer, exhiber*, Paris : éd. La Villette, 1995. 88 p. [IN-8 12488]
 - KUONI Carin (sous la direction de). *Words of Wisdom: A Curator’s Vade Vecum on Contemporary Art*, New York : Independent Curators International, Distributed Art Publishers, 2001.
 - LUCKLURST Kenneth. *The Story of Exhibitions*, London: Studio Publications, 1951.
@@ -50,55 +66,29 @@ Articles
 
 - BOIS Yves-Alain. « Exposition esthétique de la distraction, espace de démonstration », dans *Les Cahiers du Musée National d’art moderne*, (printemps 1991), n° 35. [P 1496]
 - LAWLESS Catherine. « L’œuvre et son accrochage », dans *Les Cahiers du Musée National d’Art Moderne*, n°17-18, 1986, pp. 1-6. [P 1496]
-- MAIRESSE François et HURLEY Cecilia. « Eléments d’expologie, Matériaux pour une théorie du dispositif muséal » paru dans MediaTropes eJournal Vol III, No 2 (2012) : 1–27 ISSN 1913-6005 [[télécharger l’article](http://www.mediatropes.com/index.php/Mediatropes/article/download/16896/13886)]
-- ***The Exhibitionist*, n. 1-3. [P 6 C]
-
-[*Postdocument (Reader)*](http://www.lespressesdureel.com/ouvrage.php?id=4371&menu=4) textes en français et en anglais, Cette publication rassemble les huit premiers numéros de la revue du même nom consacrée à la problématique de la photographie d'œuvres d'art en situation d'exposition.
-
-Jens Hoffmann (Curating) From A to Z, édition anglaise, JRP|Ringier	– Hapax (poche) Un abécédaire des pratiques
-
-Hans Ulrich Obrist. A Brief History of Curating. Les presses du réel – Critique, théorie & documents. Cette publication best-seller, dédiée aux pionniers du commissariat d'exposition, rassemble une sélection inédite d'entretiens réalisés par Hans Ulrich Obrist.
-
-Harald Szeemann. Méthodologie individuelle. JRP|Ringier	– Anthologies et théories de l'art. Cette publication documente la méthode curatoriale et ouvre les archives de l'un des commissaires d'expositions les plus influents de ces 40 dernières années, avec de nombreux documents inédits, des essais d'historiens et des entretiens.
-
-Brian O’Doherty. White Cube – L’espace de la galerie et son idéologie
-JRP|Ringier	– Coéditions Maison Rouge. La première publication en français du livre fondateur Inside the White Cube, qui a nourri le travail de toute une génération d'artistes, de critiques, de curateurs, et inspiré la remise en cause des formes classiques de l'exposition.
-
-[Nicolas Bourriaud.](http://www.lespressesdureel.com/ouvrage.php?id=400&menu=4) [*Postproduction* – *La culture comme scénario : comment l’art reprogramme le monde contemporain*](http://www.lespressesdureel.com/ouvrage.php?id=400&menu=4) Les presses du réel – Critique, théorie & documents. L'art de la postproduction (basé sur l'interprétation, la reproduction et la réutilisation d'œuvres d'art préexistantes, ou de produits issus d'autres champs culturels) comme réponse au chaos de la culture globale à l'ère de l'information. Comment s’orienter dans le chaos culturel et comment en déduire de nouveaux modes de production ? La suite d'<i>Esthétique relationnelle</i>.
-
-Performing the Curatorial – With and Beyond Art. Sternberg Press	– Histoire, critique et théorie. La dimension « performative » et interprétative du commissariat d'exposition.
-
-[Jean-Marc Poinsot. ](http://www.lespressesdureel.com/ouvrage.php?id=1031&menu=4) [*Quand l’œuvre a lieu* – *L’art exposé et ses récits autorisés (nouvelle édition revue et augmentée)*](http://www.lespressesdureel.com/ouvrage.php?id=1031&menu=4) Les presses du réel – Critique, théorie & documents. Nouvelle édition revue et augmentée de l'essai de référence sur l'art exposé, en tant que transformation profonde de la pratique artistique, nouveau mode de lecture des œuvres et condition de leur actualisation.
-
-
+- [*Postdocument (Reader)*](http://www.lespressesdureel.com/ouvrage.php?id=4371&menu=4) textes en français et en anglais, Cette publication rassemble les huit premiers numéros de la revue du même nom consacrée à la problématique de la photographie d'œuvres d'art en situation d'exposition.
+- Jens Hoffmann (Curating) From A to Z, édition anglaise, JRP|Ringier	– Hapax (poche) Un abécédaire des pratiques
+- Hans Ulrich Obrist. A Brief History of Curating. Les presses du réel – Critique, théorie & documents. Cette publication best-seller, dédiée aux pionniers du commissariat d'exposition, rassemble une sélection inédite d'entretiens réalisés par Hans Ulrich Obrist.
+- Harald Szeemann. Méthodologie individuelle. JRP|Ringier	– Anthologies et théories de l'art. Cette publication documente la méthode curatoriale et ouvre les archives de l'un des commissaires d'expositions les plus influents de ces 40 dernières années, avec de nombreux documents inédits, des essais d'historiens et des entretiens.
+- Brian O’Doherty. White Cube – L’espace de la galerie et son idéologie
+- JRP|Ringier	– Coéditions Maison Rouge. La première publication en français du livre fondateur Inside the White Cube, qui a nourri le travail de toute une génération d'artistes, de critiques, de curateurs, et inspiré la remise en cause des formes classiques de l'exposition.
+- [Nicolas Bourriaud.](http://www.lespressesdureel.com/ouvrage.php?id=400&menu=4) [*Postproduction* – *La culture comme scénario : comment l’art reprogramme le monde contemporain*](http://www.lespressesdureel.com/ouvrage.php?id=400&menu=4) Les presses du réel – Critique, théorie & documents. L'art de la postproduction (basé sur l'interprétation, la reproduction et la réutilisation d'œuvres d'art préexistantes, ou de produits issus d'autres champs culturels) comme réponse au chaos de la culture globale à l'ère de l'information. Comment s’orienter dans le chaos culturel et comment en déduire de nouveaux modes de production ? La suite d'<i>Esthétique relationnelle</i>.
+- Performing the Curatorial – With and Beyond Art. Sternberg Press	– Histoire, critique et théorie. La dimension « performative » et interprétative du commissariat d'exposition.
+- [Jean-Marc Poinsot. ](http://www.lespressesdureel.com/ouvrage.php?id=1031&menu=4) [*Quand l’œuvre a lieu* – *L’art exposé et ses récits autorisés (nouvelle édition revue et augmentée)*](http://www.lespressesdureel.com/ouvrage.php?id=1031&menu=4) Les presses du réel – Critique, théorie & documents. Nouvelle édition revue et augmentée de l'essai de référence sur l'art exposé, en tant que transformation profonde de la pratique artistique, nouveau mode de lecture des œuvres et condition de leur actualisation.
+- LORD, Barry. The manual of museum exhibitions. Californie, AltaMira Press, 2002, 544 p.
+- LORD, Barry et Gail D. LORD. The manual of museum planning. Californie, AltaMira Press, 2e édition, 2001, 544 p.
 
 https://www.mcc.gouv.qc.ca/fileadmin/documents/publications/ssim-guide-realiser-exposition.pdf
 
-LORD, Barry. The manual of museum exhibitions. Californie, AltaMira Press, 2002, 544 p.
+- OUDSTEN, Frank D. et Lenneke BÜLLE. Concept, forme, exposition : la présentation muséale comme narration. Amsterdam, Camini Stichting, 1989, 64 p. achat ?
+- TREMBLAY, François, Allegra WRIGHT et Han MEETER. Exhibition budgeting / Budgéter une exposition. International Committee for Exhibition Exchange (ICEE), IICOM­ICEE, 2001, 50 p.
+- DE GUISE, Céline, Michel PERRON, Annette VIEL et al. Forum 2 ­ Points de vue sur l'exposition. Montréal, Société des musées québécois (SMQ), 1991, 80 p.
+- GIRARD, Sylvie et Claire MERLEAU­PONTY. Une expo de A à Z. Concevoir et réaliser une exposition. Paris, Musée en Herbe et OCIM, 1994, 32 p., coll. « Expo Mode d’Emploi ».
+- COLLECTIF. Analyse de la profession de chargée ou chargé de projet aux expositions. Montréal, Société des musées québécois en collaboration avec le Conseil québécois des ressources humaines en culture et Emploi­Québec, 2000, 48 p.
+- COLLECTIF. Musées et muséologie : Nouvelles frontières. Essais sur les tendances. Montréal, Société des musées québécois et Musée de la civilisation, 2005, 253 p. BRINGER, Jean­Pierre et Guy MARTINI. Les expositions à thème. Ministère de l’environnement, Atelier technique des espaces naturels. Paris, La documentation française, 1988, 94 p.
+- GOB, André et Noémie DROUQUET. La muséologie ­ histoire, développements, enjeux actuels – 2e édition. Paris, Colin Éditeur, 2006, 293 p.
 
-LORD, Barry et Gail D. LORD. The manual of museum planning. Californie, AltaMira Press, 2e édition, 2001, 544 p.
-
-**MERLEAU­PONTY, Claire et Jean­Jacques EZRATI. L’exposition, théorie et pratique. Paris, L’Harmattan, 2005, 204 p. http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH001110697 **(AM 151 M47 2005 )
-
-OUDSTEN, Frank D. et Lenneke BÜLLE. Concept, forme, exposition : la présentation muséale comme narration. Amsterdam, Camini Stichting, 1989, 64 p. achat ?
-
-TREMBLAY, François, Allegra WRIGHT et Han MEETER. Exhibition budgeting / Budgéter une exposition. International Committee for Exhibition Exchange (ICEE), IICOM­ICEE, 2001, 50 p.
-
-DAVALLON, Jean. L’exposition à l’œuvre. Paris/Montréal, L’Harmattan, 2000, 378 p.
-
-DE GUISE, Céline, Michel PERRON, Annette VIEL et al. Forum 2 ­ Points de vue sur l'exposition. Montréal, Société des musées québécois (SMQ), 1991, 80 p.
-
-GIRARD, Sylvie et Claire MERLEAU­PONTY. Une expo de A à Z. Concevoir et réaliser une exposition. Paris, Musée en Herbe et OCIM, 1994, 32 p., coll. « Expo Mode d’Emploi ».
-
-COLLECTIF. Analyse de la profession de chargée ou chargé de projet aux expositions. Montréal, Société des musées québécois en collaboration avec le Conseil québécois des ressources humaines en culture et Emploi­Québec, 2000, 48 p.
-
-COLLECTIF. Musées et muséologie : Nouvelles frontières. Essais sur les tendances. Montréal, Société des musées québécois et Musée de la civilisation, 2005, 253 p. BRINGER, Jean­Pierre et Guy MARTINI. Les expositions à thème. Ministère de l’environnement, Atelier technique des espaces naturels. Paris, La documentation française, 1988, 94 p.
-
-GOB, André et Noémie DROUQUET. La muséologie ­ histoire, développements, enjeux actuels – 2e édition. Paris, Colin Éditeur, 2006, 293 p.
-
-
-
-## à trier
+## Biblio à trier
 
 Sunderland John, « Staging the Spectacle », p. 23-37 et Murdoch (John), « Architecturean Experience: The Visitor and the Spaces of Somerset House, 1780-1796 », p. 9-22, dans Solkin (D.-H.), op. cit.
 
@@ -106,26 +96,17 @@ Duncan (Carol), « The universal survey museum », Art History, vol. 3, no 4, 19
 
 Tout objet est considéré comme un sémiophore, donc porteur de sens. Pomian (Krysztof ), Collectionneurs, amateurs et curieux. Paris, Venise : XVIe-XVIIIe siècles, Paris, Gallimard, 1987, p. 42.
 
-
-
-Biblio expo
-
 http://displays.ensadlab.fr/news/
 
 Histoire des expositions http://histoiredesexpos.hypotheses.org/ressources/histoire-des-expositions-et-etudes-sur-lexposition
 
-
-
-## biblio à voir
+Davallon Jean. Claquemurer pour ainsi dire tout l’univers : La mise en exposition. Paris : Éditions du Centre Georges-Pompidou, 1986. ISBN 285850301X http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000973555 (Livres rares Collection Rioux SEM-A (RIOUX 2536 ))
 
 [Christine Develotte](https://halshs.archives-ouvertes.fr/search/index/q/*/authFullName_s/Christine+Develotte)  Décrire l'espace d'exposition discursive dans un campus numérique
 
-**L’écriture numérique du patrimoine, de l’inventaire à l’exposition : Les parcours de la base Joconde ****[article]**
-[**Marie Després-Lonnet******](http://www.persee.fr/author/persee_214685) http://www.persee.fr/doc/pumus_1766-2923_2009_num_14_1_1505
+Marie Després-Lonnet. L’écriture numérique du patrimoine, de l’inventaire à l’exposition : Les parcours de la base Joconde http://www.persee.fr/doc/pumus_1766-2923_2009_num_14_1_1505
 
 NetArt http://www.persee.fr/doc/pumus_1766-2923_2006_num_8_1_1409
-
-Ghislaine Chabert  Daniel Bouillot. Du réel au virtuel : Une expérience de visite dans l’exposition [article] Culture & Musées  Année 2010  Volume 15  Numéro 1  pp. 117-135  Fait partie d'un numéro thématique : Comment parler de la critique d’exposition ? (sous la direction de Marie-Sylvie Poli) http://www.persee.fr/doc/pumus_1766-2923_2010_num_15_1_1614
 
 Musée et numérique. Quelles visions du participatif ?Florence ANDREACOLA, Marie-Sylvie POLI, Eric SANJUAN http://culture.numerique.free.fr/publications/ludo13/Andreacola_Poli_Sanjuan_Ludovia_2013.pdf
 
@@ -137,8 +118,6 @@ p. 12-18 https://ocim.revues.org/1654
 Jean-Marc Blais. « Le numérique au service du patrimoine » Continuité, n° 99, 2003-2004, p. 44-46. http://www.erudit.org/culture/continuite1050475/continuite1055478/15635ac.pdf
 
 Représentation documentaire de l’exposition  Communication & langages [Communication & langages](http://www.necplus.eu/action/displayJournal?jid=CML) / Volume 2014 / Numéro 179 / PID 0085063 :: abconcepcion :: 09-13-12 JOU-13143 NGELLEGANI March 2014, pp 124-125 http://www.necplus.eu/action/displayAbstract?aid=2461625
-
-
 
 http://cehistoire.hypotheses.org/142
 
@@ -201,8 +180,6 @@ https://rfsic.revues.org/1056?lang=fr Émergences
 Musée et numérique, enjeux et mutations
 Florence Andreacola
 
-
-
 Exposition homothétique. Société SkinoSoft
 
 http://virtual.museeairfrance.org société SkinSoft, musée 3D
@@ -214,35 +191,11 @@ http://virtual.museeairfrance.org société SkinSoft, musée 3D
 > Des outils modernes qui font évoluer la nature mкme de la relation entre les њuvres et le visiteur, positionnant les collections patrimoniales et privées au sein de la culture collective. 
 > http://www.skinsoft.fr/actualite/vers-une-valorisation-en-ligne-des-oeuvres
 
-**The Curatorial Conundrum: What to Study? What to Research? What to Practice?**
-
-Cambridge : MIT Press ; Feldmeilen : LUMA Foundation ; Annandale-on-Hudson : Center for Curatorial Studies, Bard College, 2016, 263p. ill. en noir et en coul. 27 x 19cm, eng
-
-ISBN : 9780262529105. _ 32,48 €
-
-Sous la dir. de Paul O’Neill, Lucy Steeds, Mick Wilson. Préf. de Maja Hoffmann
-
-**Jean-Loup Amselle, Le Musée exposé**. Paris : Lignes, 2016, 139p. 20 x 14cm. ISBN : 9782355261534. _ 14,00 €
-http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH002371163 AM 151 A47 2016
-
-Claire. Merleau-Ponty, Jean-Jacques Ezrati. L’exposition, théorie et pratique. Collection Patrimoines et sociétés. Paris : L’Harmattan, 2005. ISBN 2747597466
-http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH001110697 AM 151 M47 2005
-
-edited by Sharon Macdonald. The politics of display : museums, science, culture. London ; New York : Routledge 1998. http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000287413 AM 151 P65 1998 
-
-Michael Belcher. **Exhibitions in museums**. Leicester University Press ; Smithsonian Institution Press, Leicester [England] : Washington, D.C. 1991. ISBN 0718512995 0874749131 http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000765492 AM 151 B45 1991
-
-Serge Chaumier ; préface de Marc-Olivier Gonseth. **Traité d'expologie : les écritures de l'exposition** [Paris] : La Documentation française [2012] ISBN 9782110089854. http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH002130029 AM 151 C43 2012
-
-David Dean. **Museum exhibition : theory and practice**. London : Routledge. 1996. ISBN 0415080177 http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000240957 AM 151 D43 1994
-
-**La vitrine virtuelle : exposer en toute sécurité la richesse visuelle des musées**
-
-rapport rédigé pour le Réseau canadien d'information sur le patrimoine par Peter H. Roosen-Runge ; traduit de l'anglais par Benoît Thouin.
-
-8300 defect for UNSW
-
-[Ottawa] : Le Réseau 1998 (AM 145 R6612 1998) http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000240921
+- The Curatorial Conundrum: What to Study? What to Research? What to Practice? Cambridge : MIT Press ; Feldmeilen : LUMA Foundation ; Annandale-on-Hudson : Center for Curatorial Studies, Bard College, 2016, 263p. ill. en noir et en coul. 27 x 19cm, eng ISBN : 9780262529105. Sous la dir. de Paul O’Neill, Lucy Steeds, Mick Wilson. Préf. de Maja Hoffmann
+- Jean-Loup Amselle, Le Musée exposé. Paris : Lignes, 2016, 139p. 20 x 14cm. ISBN : 9782355261534. http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH002371163 AM 151 A47 2016
+- edited by Sharon Macdonald. The politics of display : museums, science, culture. London ; New York : Routledge 1998. http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000287413 AM 151 P65 1998 
+- Michael Belcher. Exhibitions in museums. Leicester University Press ; Smithsonian Institution Press, Leicester [England] : Washington, D.C. 1991. ISBN 0718512995 0874749131 http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000765492 AM 151 B45 1991
+- La vitrine virtuelle : exposer en toute sécurité la richesse visuelle des musées. rapport rédigé pour le Réseau canadien d'information sur le patrimoine par Peter H. Roosen-Runge ; traduit de l'anglais par Benoît Thouin. [Ottawa] : Le Réseau 1998 (AM 145 R6612 1998) http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000240921
 
 voir http://cronenbergmuseum.tiff.net/artefacts-artifacts-eng.html
 
@@ -251,7 +204,5 @@ Scénographie des musées virtuels
 http://www.persee.fr/doc/pumus_1766-2923_2010_num_16_1_1579
 
 http://perso.numericable.fr/dalbera/
-
-
 
 https://papyrus.bib.umontreal.ca/xmlui/handle/1866/2862
