@@ -1,4 +1,4 @@
-# Plan de cours MSL6523-A, hiver 2017
+# Plan de cours MSL6523-E, hiver 2017
 
 ## Méta
 
@@ -31,7 +31,7 @@ En structurant les séances autour de grandes thématiques, nous explorons la ma
 
 Le séminaire est ainsi l’occasion d’offrir aux étudiants un panorama étendu des enjeux actuels de la muséologie numérique. L’approche se fonde sur des études de cas approfondies en les restituant dans un cadre plus général et théorique. Il s’agit de nourrir un regard critique sur les transformations en cours dans le monde muséal et culturel. Dans cette optique, les futurs professionnels des musées contribuent au travail exploratoire par la production d’analyses d’expériences numériques canadiennes qui viennent compléter les exemples étudiés au cours des séances. 
 
-En 2017, le séminaire sera consacré à l’examen du cas particulier des expositions numériques. À partir du cas des expositions virtuelles, il s’agira notamment d’élaborer une méthode d’analyse des dispositifs numériques en ligne. Les étudiants travailleront par ailleurs en groupe sur un prototype d’exposition virtuelle dans le cadre du partenariat [Technès](http://technes.org).
+En 2017, le séminaire sera consacré à l’examen du cas particulier des expositions numériques. L’exposition considérée comme un média, sera abordée comme un dispositif socio-symbolique en suivant l’approche proposée par Jean Davallon. À partir du cas des expositions virtuelles, il s’agira notamment d’élaborer une méthode d’analyse des dispositifs numériques en ligne. Les étudiants travailleront par ailleurs en groupe sur un prototype d’exposition virtuelle dans le cadre du partenariat [Technès](http://technes.org).
 
 ## Objectifs
 
@@ -60,43 +60,31 @@ D’autres ouvrages pourront être consultés au comptoir de la Réserve de la B
 
 ## Intégrité, fraude et plagiat
 
-Ce cours observe la politique de l’université de Montréal sur l’intégrité dans les études qui est consultable à cette adresse : http://www.integrite.umontreal.ca. Il est du devoir de chaque étudiant de la connaître et de s’y conformer.
+Ce cours observe la politique de l’Université de Montréal sur l’intégrité dans les études qui est consultable à cette adresse : http://www.integrite.umontreal.ca. Il est du devoir de chaque étudiant de la connaître et de s’y conformer.
 
-## 1. Introduction, présentation du plan de cours
+## Programme des séances
 
-Cette séance introductive du séminaire sera l’occasion de présenter la problématique générale du séminaire et les méthodes de travail.
+_Nota : L’ordre des séances est susceptible d’être modifié pour faciliter la participation d’intervenants extérieurs sans toutefois que ces changements n’entraînent un surcroît de travail pour les étudiants._
 
-## 2. Qu’est-ce qu’une exposition virtuelle ?
+### Lundi 9 janvier 2017 (séance 1) – Introduction, présentation du plan de cours
 
-De plus en plus d’institutions créent des contenus qu’ils désignent comme des expositions virtuelles. Que recouvre ce vocable, et comment les rattacher à une conception plus générale de l’exposition dans le domaine muséal ? Comment l’aborder d’un point de vue muséologique et sémiologique ?
+Séance introductive du séminaire. Présentation de la problématique générale du séminaire, des méthodes de travail et des exercices.
+
+### Lundi 16 janvier 2017 (séance 2) Qu’est-ce qu’une exposition virtuelle ?
+
+De plus en plus d’institutions créent des contenus numériques qu’ils désignent comme des expositions virtuelles. Que recouvre ce vocable, et comment les rattacher à une conception plus générale de l’exposition dans le domaine muséal ? Comment l’aborder d’un point de vue muséologique et sémiologique ?
 
 #### Lectures
 
 - [Entrée « Exposition » dans *Dictionnaire Encyclopédique de Muséologie*. André Desvallées et François Mairesse (dirs.). Paris : Armand Colin, 2002, pp. 133-173.](https://github.com/museonum/biblio/blob/master/exposition.pdf)
 
-## 3. La visite virtuelle
+### Lundi 16 janvier 2017 (séance 3) La visite virtuelle
 
 Les premières réalisations produites par les musées sur le web consistaient à offrir au public une visite virtuelle de leurs collections. Comment cette visite virtuelle se présentait-elle ? quelles formes prend-elle aujourd’hui ?
 
-Le Louvre lui-même concurrencé pour offrir une visite virtuelle de ses collections avec un projet d’initiative privée, le « Second Louvre ». En 2007, la Gemäldegalerie Alte Meister de Dresde lance la première version d’un musée virtuel. Sept cent cinquante œuvre s’y trouvent reconstituées à l’échelle dans un dispositif qui permet au visiteur de circuler librement dans les salles à l’aide d’un avatar.
-
 #### Exemples
 
-**visite virtuelle de la Grotte de Chauvet **(Musée d’Archéologie nationale / Danka Studio) dans la catégorie *« Sites et contenus web »*
 
-Archives nationales, secret d’État
-
-Google street view
-
-**Visite virtuelle « Avignon 3D » **(Communauté d’agglomération Grand Avignon) 
-
-Cette application sur systèmes embarqués a été produite par les sociétés [Art Graphique & Patrimoine](http://www.artgp.fr/) et [GMT Editions](http://gmt-editions.fr/), lauréates du World Summit Award de l’Unesco
-
-2010 : visite immersive de la chapelle du Château de Versailles produite à l’occasion d’une exposition. http://www.chapelle.chateauversailles.fr cf. http://www.chateauversailles.fr/les-actualites-du-domaine/evenements/evenements/expositions/une-chapelle-pour-le-roi et http://www.club-innovation-culture.fr/immersion-a-720°-dans-la-chapelle-royale-du-chateau-de-versailles/
-
-http://jep.elysee.fr
-
-http://lieu.mundaneum.org/fr/visite-virtuelle
 
 ## 3. L’exposition numérique est un phénomène d’éditorialisation
 
