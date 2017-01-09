@@ -24,7 +24,7 @@
 - Merleauponty, Claire et Ezrati Jean­Jacques. L’exposition, théorie et pratique. Collection Patrimoines et sociétés. Paris : L’Harmattan, 2005. 204 p. http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH001110697 (AM 151 M47 2005 )
 - *The Exhibitionist*, revue en ligne
 
-## Autres
+## Pour aller plus loin
 
 - ARVANATIS Yannis. *A fine red line: a curatorial miscellany*, IM Press, Londres, 2008. 80 p. [[IN-8 24130\]](http://bibliothequekandinsky.centrepompidou.fr/clientBookline/service/reference.asp?INSTANCE=incipio&OUTPUT=PORTAL&DOCID=0890215&DOCBASE=CGPP)
 - BAL Mieke, *Double Exposures, The Subject of Cultural Analysis*, Londres/New York, Routledge, 1996.
@@ -52,8 +52,8 @@
 - OBRIST Hans Ulrich. *A brief history of curatoring*, Jrp Ringier, 2008. 239 p. [IN-8 23757] achat ?
 - O’NEILL Paul. *Curating subjects*, 2007, Amsterdam, De Appel, 229 p. [IN-8 22044]
 - POINSOT Jean-Marc. *Quand l’œuvre a lieu : l’art exposé et ses récits autorisés*, Institut d’art contemporain, Villeurbanne, 1999. 328 p. Nouvelle édition revue et augmentée Les presses du réel, Dijon, 1 vol., 2008. 375 p. [IN-8 15714]
-- **PUTMAM James. *Le musée à l’œuvre, le musée comme medium dans l’art contemporain*. Paris : Thames &Hudson, 2002. ISBN 2878112024 http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000357004 (N 72 A77 P8812 2002 )**
-- ****SCHUBERT Karsten. *The Curator’s Egg: the Evolution of the Museum Concept from the French Revolution to the Present Day*. London: One-Off Press: Distributed by Christie’s Books, 2000. 159 p. [IN-8 18569]
+- PUTMAM James. *Le musée à l’œuvre, le musée comme medium dans l’art contemporain*. Paris : Thames &Hudson, 2002. ISBN 2878112024 http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000357004 (N 72 A77 P8812 2002 )
+- SCHUBERT Karsten. *The Curator’s Egg: the Evolution of the Museum Concept from the French Revolution to the Present Day*. London: One-Off Press: Distributed by Christie’s Books, 2000. 159 p. [IN-8 18569]
 - STANISZEWSKI Mary Anne. *The Power of Display: A History of Exhibition Installations at the Museum of Modern Art*, Cambridge : MIT Press, 1998, 371 p. [IN-8 14838] achat ?
 - SZEEMANN Harald. *Ecrire les expositions*, Bruxelles : La Lettre volée, 1996. 158 p. [IN-8 12226] http://atrium.umontreal.ca/UM:Tout_sauf_articles:UM-ALEPH000366590
 - TANNERT Christoph, TISCHLER Ute. *MIB-Men in Black: Handbook of Curatorial Practice*, Berlin : Revolver Books, 2004. 303 p. [IN-8 21103]
@@ -78,7 +78,6 @@ Articles
 - LORD, Barry. The manual of museum exhibitions. Californie, AltaMira Press, 2002, 544 p.
 - LORD, Barry et Gail D. LORD. The manual of museum planning. Californie, AltaMira Press, 2e édition, 2001, 544 p.
 
-https://www.mcc.gouv.qc.ca/fileadmin/documents/publications/ssim-guide-realiser-exposition.pdf
 
 - OUDSTEN, Frank D. et Lenneke BÜLLE. Concept, forme, exposition : la présentation muséale comme narration. Amsterdam, Camini Stichting, 1989, 64 p. achat ?
 - TREMBLAY, François, Allegra WRIGHT et Han MEETER. Exhibition budgeting / Budgéter une exposition. International Committee for Exhibition Exchange (ICEE), IICOM­ICEE, 2001, 50 p.
@@ -97,6 +96,8 @@ Duncan (Carol), « The universal survey museum », Art History, vol. 3, no 4, 19
 Tout objet est considéré comme un sémiophore, donc porteur de sens. Pomian (Krysztof ), Collectionneurs, amateurs et curieux. Paris, Venise : XVIe-XVIIIe siècles, Paris, Gallimard, 1987, p. 42.
 
 http://displays.ensadlab.fr/news/
+
+https://www.mcc.gouv.qc.ca/fileadmin/documents/publications/ssim-guide-realiser-exposition.pdf
 
 Histoire des expositions http://histoiredesexpos.hypotheses.org/ressources/histoire-des-expositions-et-etudes-sur-lexposition
 
