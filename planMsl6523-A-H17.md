@@ -50,18 +50,6 @@ Pour mettre en œuvre cette pédagogie active, outre les lectures et préparatio
 
 Plusieurs dispositifs d’échange son mis en œuvre pour partager la bibliographie et mettre en commun le travail réalisé par l’intermédiaire de la plateforme [GitHub](https://github.com/museonum/msl6523). Les [issues](https://github.com/museonum/msl6523/issues) de ce répertoire sont destinées à maintenir une conversation active au-delà du cours.
 
-## Lectures
-
-Outre une [bibliographie sommaire](bibliographie.md), des lectures hebdomadaires sont proposées avec le cours. Ces références seront indiquées pour chaque séance dans le [plan de cours](planMsl6523A17.md). 
-Merci d’avoir lu et étudié ces publications avant le séminaire afin de pouvoir en discuter. À cet effet, il est recommandé de prendre des notes pendant vos lectures, et de les apporter en cours.
-
-Lorsque les droits le permettent. les textes sont mis à disposition par l’intermédiaire d’un [répertoire GitHub privé](https://github.com/museonum/biblio) (pour accéder aux documents joints aux références, merci de bien vouloir créer un compte sur la plate-forme et de faire une demande d’adhésion au groupe).
-D’autres ouvrages pourront être consultés au comptoir de la Réserve de la Bibliothèque des Lettres et des Sciences humaines.
-
-## Intégrité, fraude et plagiat
-
-Ce cours observe la politique de l’Université de Montréal sur l’intégrité dans les études qui est consultable à cette adresse : http://www.integrite.umontreal.ca. Il est du devoir de chaque étudiant de la connaître et de s’y conformer.
-
 ## Programme des séances
 
 _Nota : L’ordre des séances est susceptible d’être modifié pour faciliter la participation d’intervenants extérieurs sans toutefois que ces changements n’entraînent un surcroît de travail pour les étudiants._
@@ -84,9 +72,7 @@ Les premières réalisations produites par les musées sur le web consistaient �
 
 #### Exemples
 
-
-
-## 3. L’exposition numérique est un phénomène d’éditorialisation
+### 3. L’exposition numérique est un phénomène d’éditorialisation
 
 L’éditorialisation est un concept commode pour rendre compte des phénomènes de production du sens dans l’espace numérique. Celle-ci désigne l’ensemble des dynamiques qui produisent et structurent l’espace numérique. Ces dynamiques peuvent être des interactions des actions individuelles et collectives avec un environnement numérique particulier. Au cours de cette séance, nous essayerons de mobiliser le concept d’éditorialisation développé par Marcello Vitali Rosati pour aborder le cas des expositions virtuelles.
 
@@ -94,17 +80,17 @@ L’éditorialisation est un concept commode pour rendre compte des phénomènes
 
 - Marcello Vitali Rosati. « Qu’est-ce que l’éditorialisation ? » *Sens Public*, 18 mars 2016. http://sens-public.org/article1184.html
 
-## 4. Présentation du partenariat Technès
+### 4. Présentation du partenariat Technès
 
 Le partenariat Technès est un partenariat international qui associe plusieurs laboratoires de recherche et institutions patrimoniales et culturelles pour investiguer les techniques cinématographiques. Le partenariat doit notamment permettre la production d’une *Encyclopédie des techniques du cinéma* qui proposera notamment des parcours de type expositionnel. La séance est consacrée à la présentation des enjeux du projet de recherche sur lequel vous allez travailler.
 
-## 5. Musée canadien virtuel (étude de cas)
+### 5. Musée canadien virtuel (étude de cas)
 
-## La Gamification
+### La Gamification
 
 http://www.memorya.org/#accueil
 
-## Google Cultural Institute
+### Google Cultural Institute
 
 https://www.google.com/culturalinstitute/beta/
 
@@ -116,13 +102,13 @@ https://www.google.com/culturalinstitute/beta/u/0/project/loire-castles
 
 https://www.google.com/culturalinstitute/beta/exhibit/a-la-genèse-de-la-société-de-l-information
 
-## Le renouveau curatorial
+### Le renouveau curatorial
 
 Tumblr, Pinterest, Flickr, etc.
 
 Blogger, etc. http://50watts.com
 
-## Open Knowledge
+### Open Knowledge
 
 http://publicdomainreview.org
 
@@ -132,11 +118,11 @@ ubuweb
 
 monoskop
 
-## Webdocumentaire
+### Webdocumentaire
 
 Le modèle du webdocumentaire et du storytelling
 
-## Net Art
+### Net Art
 
 Isabelle + exemple d’expositions numériques
 
@@ -146,9 +132,9 @@ Altshuler, Bruce. *Salon to Biennial – Exhibitions That Made Art History*, vol
 
 réciprocité entre expériences artistiques et mises en exposition expérimentales, l’exposition comme espace social des pratiques artistiques modernes.
 
-## 7. Application et prolongements de la visite physique
+### 7. Application et prolongements de la visite physique
 
-## 8. Quand le livre et l’exposition convergent
+### 8. Quand le livre et l’exposition convergent
 
 cf. https://candide.bnf.fr
 
@@ -158,19 +144,19 @@ dernière version de http://www.blakearchive.org
 
 rolls, etc.
 
-## Le catalogue numérique
+### Le catalogue numérique
 
 Initiatives du Getty
 
 Tentatives de la Tate
 
-## Dispositifs in situ ?
+### Dispositifs in situ ?
 
-## 10. Prologement du physique
+### 10. Prologement du physique
 
 réalité augmentée, applications de visites  
 
-## 11. L’exposition virtuelle
+### 11. L’exposition virtuelle
 
 http://www.lapresse.ca/le-soleil/arts/expositions/201606/29/01-4996667-la-bibliotheque-la-nuit-de-lepage-a-quebec.php
 
@@ -178,7 +164,7 @@ http://libraryofbabel.info
 
 [V-MUST.NET](http://www.v-must.net/)
 
-## 12. Mashups, etc.
+### 12. Mashups, etc.
 
 Open data, mashups.
 
@@ -186,7 +172,7 @@ http://www.fastcodesign.com/3063033/infographic-of-the-day/wikipedia-is-a-giant-
 
 http://histography.io
 
-## 13. La curation algorithmique
+### 13. La curation algorithmique
 
 Logiciels de reconnaissance d’image, vision computationnelle, et curation.
 
@@ -200,26 +186,55 @@ https://www.fastcodesign.com/3063716/what-happens-when-you-let-a-neural-net-cura
 
 https://www.google.com/culturalinstitute/beta/entity/m012yb9?categoryId=art-movement&col=RGB_CE4A3F
 
+## Lectures et travail personnel
 
+Outre une [bibliographie sommaire](bibliographie.md), des lectures hebdomadaires sont proposées avec le cours. Ces références seront indiquées pour chaque séance dans le [plan de cours](planMsl6523A17.md). 
+Merci d’avoir lu et étudié ces publications avant le séminaire afin de pouvoir en discuter. À cet effet, il est recommandé de prendre des notes pendant vos lectures, et de les apporter en cours.
 
-## à prévoir
+Lorsque les droits le permettent. les textes sont mis à disposition par l’intermédiaire d’un [répertoire GitHub privé](https://github.com/museonum/biblio) (pour accéder aux documents joints aux références, merci de bien vouloir créer un compte sur la plate-forme et de faire une demande d’adhésion au groupe).
+D’autres ouvrages pourront être consultés au comptoir de la Réserve de la Bibliothèque des Lettres et des Sciences humaines.
 
-- Rétroactions régulières
-- Design thinking point et définition des règles du jeu
+## Évaluation
 
+Travail collectif 50 %, travail personnel 40 %, participation au séminaire 10%
 
-## divers
+### Travail collectif
 
-Conférence Archeovirtual 2012
+Au cours du semestre, les étudiants participent à la réalisation d’un prototype d’exposition virtuelle dans le cadre du partenariat Technès. Plusieurs livrables devront être rendus qui feront l’objet d’une évaluation. Il s’agit d’un travail de groupe qui sera évalué en tant que tel.
 
-réseau international de musées virtuels [V-MUST.NET](http://www.v-must.net/)
+L’évaluation du travail se décompose de la manière suivante :
 
-## Todo
+- Implication dans le travail de groupe (note individuelle par vos collègues) 40 %
+- Qualité des livrables 60 %
 
-voir expositions faites avec Scalar
+### Rédaction de notices
 
-voir expositions faites avec Omeka
+Afin de compléter l’évaluation individuelle des étudiants, vous devez produire une notice critique sur une exposition numérique canadienne. Cette notice est destinée à être publiée, avec votre accord, sur un site web consacré à la muséologie numérique au Canada.
 
-voir expositions CNRS et INRAP
+- Choix de l’exposition numérique 10%
+- Pertinence de la notice 60 %
+- Qualité de la rédaction 20 %
 
-prendre grandes institutions et lister leurs expos
+### Participation
+
+La participation au cours est requise et une feuille de présence circulera à chaque séance.
+Dans l’éventualité où vous deviez rencontrer des difficultés pour remplir ces obligations à un moment ou un autre du semestre, vous êtes priés de bien vouloir immédiatement prendre contact avec le professeur.
+
+### Échéancier
+
+- janvier 2016 - Finalisation du choix du dispositif numérique étudié
+- avril 2016 – Rendu de la notice critique
+- révision par les pairs de la notice critique
+- Tout au long du semestre, travail sur le prototype d’exposition
+
+## Intégrité, fraude et plagiat
+
+Ce cours observe la politique de l’Université de Montréal sur l’intégrité dans les études qui est consultable à cette adresse : http://www.integrite.umontreal.ca. Il est du devoir de chaque étudiant de la connaître et de s’y conformer.
+
+## Accommodements
+
+En accord avec la Politique-cadre sur l’intégration des personnes en situation de handicap, des mesures d’accommodement peuvent être mises en place pour les cours et les examens.
+Pour pouvoir en bénéficier, vous devez tout d’abord vous inscrire au service de soutien aux étudiants en situation de handicap (SESH) qui évaluera vos besoins.
+Indépendamment de cette démarche, n’hésitez pas à faire part au professeur de difficultés éventuelles dont il faudrait tenir compte.
+
+N’hésitez pas à consulter la page du Centre étudiant de soutien à la réussite (Cesar) : www.cesar.umontreal
