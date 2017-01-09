@@ -1,4 +1,4 @@
-# Plan de cours MSL6523-E, hiver 2017
+# Plan de cours MSL6523E-A, hiver 2017
 
 ## Méta
 
@@ -56,7 +56,7 @@ Voir le [plan de cours](planMsl6523E-A.md)
 
 ## Lectures et travail personnel
 
-Outre une [bibliographie sommaire](bibliographie.md), des une à deux lectures hebdomadaires sont proposées avec le cours. Ces références seront indiquées pour chaque séance dans le [plan de cours](planMsl6523A17.md). 
+Outre une [bibliographie sommaire](bibliographie.md), des une à deux lectures hebdomadaires sont proposées avec le cours. Ces références seront indiquées pour chaque séance dans le [plan de cours](planMsl6523E-A.md)
 Merci d’avoir lu et étudié ces publications avant le séminaire afin de pouvoir en discuter. À cet effet, il est recommandé de prendre des notes pendant vos lectures, et de les apporter en cours.
 
 Lorsque les droits le permettent. les textes sont mis à disposition par l’intermédiaire d’un [répertoire GitHub privé](https://github.com/museonum/biblio) (pour accéder aux documents joints aux références, merci de bien vouloir créer un compte sur la plate-forme et de faire une demande d’adhésion au groupe).

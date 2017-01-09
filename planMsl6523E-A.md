@@ -1,4 +1,4 @@
-# Plan de cours MSL6523-E, hiver 2017
+# Plan de cours MSL6523E-A, hiver 2017
 
 ## Méta
 
