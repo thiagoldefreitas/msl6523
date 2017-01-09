@@ -1,10 +1,18 @@
-# Recension
+---
+title: Note méthodologique pour la recension des expositions numériques
+author: Emmanuel Château-Dutier
+since: 2017-01-02
+date: 2017-01-09
+version: 0.2
+---
+
+# Note méthodologique pour la recension des expositions numériques
 
 Les recension consiste en des commentaires critiques d’exposition numériques canadiennes. Le choix des sites pour la recension doit être effectué en fonction de la qualité muséale du dispositif numérique étudié. Il doit s’agir de l’analyse d’un cas Canadien car votre texte sera destiné à alimenter une base documentaire sur la muséologie numérique au Canada et au Québec en particulier. Vous pouvez choisir un exemple ancien en tenant compte des possibilités techniques de l’époque de la réalisation et des problématiques de consultation actuelles liées à la conservation des expositions numériques.
 
 Au moins la moitié de votre texte doit être consacrée à une présentation fidèle de la réalisation et sa description. Le reste de l’espace doit être consacré à la présentation des forces et faiblesses de la réalisation, de la contribution de l’exposition à son sujet et de la valeur de ses propositions dans le contexte des réalisations contemporaines, ainsi que du public ciblé.
 
-## Méthodologie
+## Méthode
 
 L’exercice consiste à produire une recension d’exposition numérique. Cette recension est assimilable à un compte rendu critique d’une publication académique ou d’une exposition dans une publication scientifique. Il s’agit de produire, à partir d’une analyse du dispositif, un commentaire argumenté et référencé. La recension vise essentiellement à mettre en évidence ses partis musicographiques et à restituer l’importance d’une réalisation du point de vue muséologique. Il peut s’agir d’un site web ou d’une application numérique.
 
@@ -117,4 +125,5 @@ La publication est prévue avec l’utilisation d’une Licence Creative Commons
 - Victor Deweys. Le Guide de l’imprimerie et du papier : Normes gouvernementales en matière d’impression. Québec : Conseil du trésor, Services gouvernementaux, 1995, 180 p.
 - Direction de la francisation. Caractéristiques culturelles et linguistiques du Québec, Conventions et pratiques dans les technologies de l’information. Québec : Office Québécois de la langue française, décembre 2004. `http://www.oqlf.gouv.qc.ca/ressources/ti/dossiers/CCLQTI_20040720.pdf`, accédé le 10 janvier 2016.
 - Wilfried Laforge. Méthodologie du commentaire d’œuvre, 2014/2015. `https://laforgeunistra.wordpress.com/outils-methodologiques/methodologie-du-commentaire-doeuvre/`, accédé le 10 janvier 2016.
-- ​
+- Jean Davallon. L’écriture de l’exposition : expographie, muséographie, scénographie. *Culture & Musées*, vol. 16, n° 1, 2010, pp. 229-238.
+- André Desvallées. Exposer ?. Publics et Musées, vol. 9, n° 1, 1996, pp. 143-146. 10.3406/pumus.1996.1299
