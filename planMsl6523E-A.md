@@ -92,11 +92,11 @@ Avec plus de 500 expositions virtuelles, le Musée virtuel du Canada (MVC) offre
 
 ### Lundi 13 février 2017 (séance 7) – Le prolongement de l’exposition physique
 
-Les applications sur tablettes ou mobiles permettent aux institutions de proposer des expositions virtuelles qui offrent au visiteur un support de visite ou constituent le prolongement de ces visites. Quelles sont les caractéristiques de ces applications du point de vue des interactions utilisateurs et comment se différentient-elles du web proprement dit ?
+Les applications sur tablettes ou mobiles permettent aux institutions de proposer des expositions virtuelles qui offrent au visiteur un support de visite ou constituent le prolongement de ces visites. Quelles sont les caractéristiques de ces applications du point de vue des interactions utilisateurs et comment se différencient-elles du web proprement dit ?
 
 ### Lundi 20 mars 2017 (séance 8) – Le modèle du webdocumentaire
 
-On 
+Issu du monde des actualités, les webdocumentaires se sont imposés comme un modèle prévalent pour des dispositifs narratifs en ligne. Largement repris par les institutions muséales, en quoi ce dispositif est-il caractéristique d’un *storytelling* mettant en scène des contenus médiatiques ? Qu’est-ce qui le distingue d’une exposition numérique classique ?
 
 ### Lundi 27 mars 2017 (séance 9) – Le renouveau curatorial
 
@@ -108,16 +108,18 @@ Qu’advient-il lorsque l’on confie à la machine la curation d’une expositi
 
 ### Lundi 10 avril 2017 (séance 11) – La datavisualisation
 
+La datavisualisation est l’art de présenter des données quantitatives de manière à rendre visible des phénomènes statistiques. De plus en plus employée dans le cadre du journalisme, ce genre de visualisation peut être appliquée au musée pour offrir des points de vue inédits sur les collections. Quels sont les codes de la datavisualisation, et comment celle-ci peut-être participer à la construction d’un propos expositionnel ?
+
 ### Lundi 17 avril 2017 (séance 12) – Restitution des travaux
 
-Restitution des prototype 
+Restitution collective des prototypes aux membres du partenariat Technès.
 
 ## Lectures et travail personnel
 
-Outre une [bibliographie sommaire](bibliographie.md), des une à deux lectures hebdomadaires sont proposées avec le cours. Ces références seront indiquées pour chaque séance dans le [plan de cours](planMsl6523A17.md). 
+Outre une [bibliographie sommaire](bibliographie.md), de une à deux lectures hebdomadaires sont proposées avec le cours. Ces références seront indiquées pour chaque séance dans le [plan de cours](planMsl6523A17.md). 
 Merci d’avoir lu et étudié ces publications avant le séminaire afin de pouvoir en discuter. À cet effet, il est recommandé de prendre des notes pendant vos lectures, et de les apporter en cours.
 
-Lorsque les droits le permettent. les textes sont mis à disposition par l’intermédiaire d’un [répertoire GitHub privé](https://github.com/museonum/biblio) (pour accéder aux documents joints aux références, merci de bien vouloir créer un compte sur la plate-forme et de faire une demande d’adhésion au groupe).
+Lorsque les droits le permettent, les textes sont mis à disposition par l’intermédiaire d’un [répertoire GitHub privé](https://github.com/museonum/biblio) (pour accéder aux documents joints aux références, merci de bien vouloir créer un compte sur la plateforme et de faire une demande d’adhésion au groupe).
 D’autres ouvrages pourront être consultés au comptoir de la Réserve de la Bibliothèque des Lettres et des Sciences humaines.
 
 ## Évaluation
@@ -140,6 +142,8 @@ Afin de compléter l’évaluation individuelle des étudiants, vous devez produ
 - Choix de l’exposition numérique 10%
 - Pertinence de la notice 60 %
 - Qualité de la rédaction 20 %
+
+L’évaluation du travail est en partie réalisée par les pairs.
 
 ### Participation
 

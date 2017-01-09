@@ -83,6 +83,8 @@ Afin de compléter l’évaluation individuelle des étudiants, vous devez produ
 - Pertinence de la notice 60 %
 - Qualité de la rédaction 20 %
 
+L’évaluation du travail est en partie réalisée par les pairs.
+
 ### Participation
 
 La participation au cours est requise et une feuille de présence circulera à chaque séance.

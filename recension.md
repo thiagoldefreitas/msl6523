@@ -84,10 +84,10 @@ Le texte doit être rédigé dans un français correct (orthographe, syntaxe, st
 - des illustrations explicitement légendées : auteur (dates d’existence), titre de l’œuvre, date, techniques, dimensions, lieu de conservation.
 - une problématique claire
 - un plan clairement identifiable
-- être référencé avec le style auteur/date du *Chicago Manual of Style* en Français.
+- être référencé avec le style auteur/date du *[Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html)* en Français.
 - Insérer une bibliographie à la fin de votre travail. 
-- La présentation des références bibliographiques respecte le protocole de citation bibliographique de l’université (*Chicago Manual of Style*). Chaque citation devant être correctement identifiée en donnant le nom de l’auteur, le titre, la ville, l’éditeur, la date et la page de l’ouvrage dans lequel vous avez trouvé la citation (ou l’adresse de la page web, avec date de consultation).
-- On recommande fortement aux étudiants l’utilisation d’un logiciel de gestion des références bibliographiques comme Zotero. La bibliothèque de l’Université offre régulièrement des formations gratuites au maniement de ces logiciels.
+- La présentation des références bibliographiques respecte le protocole de citation bibliographique de l’université (*[Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html)*). Chaque citation devant être correctement identifiée en donnant le nom de l’auteur, le titre, la ville, l’éditeur, la date et la page de l’ouvrage dans lequel vous avez trouvé la citation (ou l’adresse de la page web, avec date de consultation).
+- On recommande fortement aux étudiants l’utilisation d’un logiciel de gestion des références bibliographiques, libre et open source, comme [Zotero](https://www.zotero.org). La bibliothèque de l’Université offre régulièrement des [formations gratuites](http://www.bib.umontreal.ca/GIF/formations.aspx) au maniement de ces logiciels.
 
 ### Vocabulaire et orthographe
 
