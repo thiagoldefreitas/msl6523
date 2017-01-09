@@ -22,6 +22,10 @@ http://exhibitions.europeana.eu/
 
 ## France
 
+## Archives de Lyon
+
+http://www.archives-lyon.fr/archives/sections/fr/expositions/expos_lyon_archives
+
 ### Bibliothèque nationale de France (BnF)
 
 http://expositions.bnf.fr
@@ -30,6 +34,10 @@ http://expositions.bnf.fr
 
 https://www.monuments-nationaux.fr
 
+### Charente-Maritime
+
+url: http://exposvirtuelles.charente-maritime.fr/fr/expositions
+
 ### Cité de l’architecture et du patrimoine
 
 http://www.citechaillot.fr/fr/expositions/expositions_virtuelles/
@@ -37,6 +45,10 @@ http://www.citechaillot.fr/fr/expositions/expositions_virtuelles/
 ### École du Louvre
 
 http://www.ecoledulouvre.fr/documentation/phototheque/expositions-virtuelles
+
+### Institut national audiovisuel
+
+http://fresques.ina.fr/elles-centrepompidou/parcours/0001/les-pionnieres.html
 
 ### Institut national de recherches archéologiques (INRAP)
 
@@ -65,6 +77,10 @@ http://museumlab.fr/greeting/theme/index.html
 ### Musée national du sport
 
 http://www.museedusport.fr/fr/page/expositions-virtuelles
+
+## Muzeonum
+
+http://www.muzeonum.org/wiki/doku.php?id=contenus:expositions_en_ligne
 
 ### Université PSL
 
@@ -156,6 +172,20 @@ http://www.ville.quebec.qc.ca/culture_patrimoine/archives/jalons_historiques/exp
 
 ## Divers
 
+## Frick
+
+http://www.frick.org/exhibitions/piero/virtual_exhibition
+
+## National Galery of Art
+
+http://www.nga.gov/exhibitions/webtours.shtm
+
+http://www.nga.gov/exhibitions/cambodiainfo.shtm
+
+### New York Art resources consortium
+
+http://www.nyarc.org projet de préservation numérique http://www.nyarc.org//sites/default/files/reports/reframing_final_report2013.pdf
+
 http://www.culturemobile.net/cultures-numerique/expositions-virtuelles
 
 voir ce qui a été financé dans http://culturelabs.culture.fr
@@ -171,3 +201,7 @@ http://bienvenue-multimedia.ca/expositions-virtuelles
 http://www.ideeclic.com
 
 http://www.ideeclic.com/fr/node/152
+
+## Inside 3D
+
+http://www.inside360.fr

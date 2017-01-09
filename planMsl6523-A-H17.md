@@ -78,6 +78,8 @@ De plus en plus d’institutions créent des contenus qu’ils désignent comme 
 
 Les premières réalisations produites par les musées sur le web consistaient à offrir au public une visite virtuelle de leurs collections. Comment cette visite virtuelle se présentait-elle ? quelles formes prend-elle aujourd’hui ?
 
+Le Louvre lui-même concurrencé pour offrir une visite virtuelle de ses collections avec un projet d’initiative privée, le « Second Louvre ». En 2007, la Gemäldegalerie Alte Meister de Dresde lance la première version d’un musée virtuel. Sept cent cinquante œuvre s’y trouvent reconstituées à l’échelle dans un dispositif qui permet au visiteur de circuler librement dans les salles à l’aide d’un avatar.
+
 #### Exemples
 
 **visite virtuelle de la Grotte de Chauvet **(Musée d’Archéologie nationale / Danka Studio) dans la catégorie *« Sites et contenus web »*
@@ -89,6 +91,8 @@ Google street view
 **Visite virtuelle « Avignon 3D » **(Communauté d’agglomération Grand Avignon) 
 
 Cette application sur systèmes embarqués a été produite par les sociétés [Art Graphique & Patrimoine](http://www.artgp.fr/) et [GMT Editions](http://gmt-editions.fr/), lauréates du World Summit Award de l’Unesco
+
+2010 : visite immersive de la chapelle du Château de Versailles produite à l’occasion d’une exposition. http://www.chapelle.chateauversailles.fr cf. http://www.chateauversailles.fr/les-actualites-du-domaine/evenements/evenements/expositions/une-chapelle-pour-le-roi et http://www.club-innovation-culture.fr/immersion-a-720°-dans-la-chapelle-royale-du-chateau-de-versailles/
 
 http://jep.elysee.fr
 
