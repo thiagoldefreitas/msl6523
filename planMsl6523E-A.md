@@ -86,11 +86,11 @@ Le partenariat Technès est un partenariat international qui associe plusieurs l
 
 http://technes.org/fr/
 
-### Lundi 27 février 2017 (séance 6) – L’exemple du Musée canadien virtuel (études de cas)
+### Lundi 6 mars 2017 (séance 6) – L’exemple du Musée canadien virtuel (études de cas)
 
 Avec plus de 500 expositions virtuelles, le Musée virtuel du Canada (MVC) offre une importante source de contenu et d’expériences en ligne provenant de musées et organismes patrimoniaux canadiens, petits et grands. Ces expositions en ligne portent sur l’histoire, la culture, la science et les arts, ainsi que sur des récits de diverses communautés au Canada. De nombreuses ressources éducatives sont également mises à la disposition des enseignants. Présentation du projet et études de cas.
 
-### Lundi 13 février 2017 (séance 7) – Le prolongement de l’exposition physique
+### Lundi 13 mars 2017 (séance 7) – Le prolongement de l’exposition physique
 
 Les applications sur tablettes ou mobiles permettent aux institutions de proposer des expositions virtuelles qui offrent au visiteur un support de visite ou constituent le prolongement de ces visites. Quelles sont les caractéristiques de ces applications du point de vue des interactions utilisateurs et comment se différencient-elles du web proprement dit ?
 
