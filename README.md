@@ -1,5 +1,9 @@
 # Plan de cours MSL6523E-A, hiver 2017
 
+**INFORMATION pour le prochain cours : **
+
+.red[**Pour accéder aux documents numérisés de la prochaine séance, vous devez vous être inscrit sur le site et avoir validé l’invitation à l’organisation.**]
+
 ## Méta
 
 **MSL 6523 - Problèmes contemporains, La muséologie numérique**
