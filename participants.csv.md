@@ -1,0 +1,9 @@
+# # participants
+
+emchateau, Château-Dutier, Emmanuel
+
+zoevgdt, Vangindertael, Zoé
+
+chloechaspoul, Chaspoul, Chloé
+
+carelkh, Khoury, Carel
