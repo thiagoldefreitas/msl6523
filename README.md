@@ -2,7 +2,7 @@
 
 **INFORMATION pour le prochain cours : **
 
-.red[**Pour accéder aux documents numérisés de la prochaine séance, vous devez vous être inscrit sur le site et avoir validé l’invitation à l’organisation.**]
+**Pour accéder aux documents numérisés de la prochaine séance, vous devez vous être inscrit sur le site et avoir validé l’invitation à l’organisation.**
 
 ## Méta
 
