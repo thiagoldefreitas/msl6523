@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+# Navigation
+nav:
+  - label: plan de cours
+    url: /plan6523/
+    # theme:
+  - label: biblio
+    url: /bibliographie/
+    # theme:
